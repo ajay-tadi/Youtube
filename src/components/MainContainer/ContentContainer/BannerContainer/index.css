@@ -1,0 +1,24 @@
+.banner-background{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png");
+    height: 30vh;
+    /* border: 2px solid #000; */
+}
+
+.banner-logo{
+    height: 30px;
+    width: auto;
+    
+
+}
+.banner-heading{
+    font-size: 18px;
+    width: 380px;
+}
+.banner-button{
+    height: 30px;
+    width: 120px;
+    border: 1px solid #1e293b;
+    background-color: #ffffff;
+    color: #1e293b;
+    font-weight: bold;
+}

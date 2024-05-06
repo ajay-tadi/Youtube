@@ -1,0 +1,40 @@
+.options-container {
+        /* display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        
+        height: 100vh;
+        width: 18%; */
+    /* justify-content: space-between; */
+    /* border: 2px solid #000000; */
+  
+}
+.contact-logo {
+    height: 30px;
+    margin: 10px;
+    width: auto;
+}
+.options-button {
+    width: 100%;
+    color: #475569;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 12px;
+    border: none;
+    padding-left: 50px;
+    text-align: start;
+    background-color: transparent;
+}
+.contactUs-heading {
+     color: #475569;
+     font-size: 17px;
+     padding-left: 30px;
+     font-weight: 500;
+
+}
+.selected-button {
+    background-color: #d7dfe9;
+    font-weight: 700;
+}
+

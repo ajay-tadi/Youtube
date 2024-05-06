@@ -1,0 +1,12 @@
+.main-container{
+    display: flex;
+    /* border: 2px solid #000; */
+}
+ 
+.left-component { 
+    width: 18%; 
+  } 
+   
+.right-component { 
+    width: 82%; 
+  } 
